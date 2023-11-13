@@ -3,8 +3,8 @@ body{
   min-height: 100vh;
 
   font-family: 'Open Sans', sans-serif;
-  background: linear-gradient (180deg, rgba(227, 255, 248, 0.00) 
-  82.08%, rgba(227, 255, 248, 0.38) 100%);
+  background: linear-gradient(180deg, rgb(227, 255, 248, 0) 82.08%, rgb(227, 255, 248, 0.38) 100%);
+  
 }
 
 .page {
